@@ -66,7 +66,7 @@ final class FileClientsRepository implements ClientsRepository
         $line = [];
         $line[2] = array_pop($fileFields);
         $line[1] = array_pop($fileFields);
-        $line[0] = implode(" ", array_reverse($fileFields));
+        $line[0] = implode(" ", $fileFields);
         return $line;
     }
 
