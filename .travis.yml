@@ -1,0 +1,13 @@
+language: php
+
+php:
+  - 7.3
+
+before_script:
+  - composer install --dev
+
+script: ./vendor/bin/simple-phpunit
+
+notifications:
+    email:
+        - josecarlosduran@gmail.com
