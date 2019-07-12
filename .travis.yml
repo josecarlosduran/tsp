@@ -11,3 +11,4 @@ script: ./vendor/bin/simple-phpunit
 notifications:
     email:
         - josecarlosduran@gmail.com
+    slack: tobalinaconsulting:sdhe9T5bw5qW9PpRs7Q3at9a
