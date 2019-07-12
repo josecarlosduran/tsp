@@ -8,7 +8,6 @@ Este programa lo programo para un ejercicio propuesto por Eurona
 
 ### Pre-requisitos 📋
 
-
 ```
 PHP 7.3
 Composer
@@ -16,7 +15,6 @@ Git
 ```
 
 ### Instalación 🔧
-
 
 Clona el proyecto en tu ordenador en local:
 ```
